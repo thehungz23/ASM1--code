@@ -1,0 +1,7 @@
+D:\Seconchance Programing\assm1\assm1\bin\Debug\assm1.exe.config
+D:\Seconchance Programing\assm1\assm1\bin\Debug\assm1.exe
+D:\Seconchance Programing\assm1\assm1\bin\Debug\assm1.pdb
+D:\Seconchance Programing\assm1\assm1\obj\Debug\assm1.csproj.AssemblyReference.cache
+D:\Seconchance Programing\assm1\assm1\obj\Debug\assm1.csproj.CoreCompileInputs.cache
+D:\Seconchance Programing\assm1\assm1\obj\Debug\assm1.exe
+D:\Seconchance Programing\assm1\assm1\obj\Debug\assm1.pdb
